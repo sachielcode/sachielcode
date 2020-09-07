@@ -8,5 +8,5 @@
 - 🌌 I have knowledge of this other technologies: `ReactJS, Webpack, PWA, ES6+, JQuery, CodeIgniter, Vue, C#, PostgreSql, sass`
 - 🌍 I'm mostly active within the **Platzi Backend Community**
 - 📫 Reach me: 
-[twitter.com/sachielcode](https://twitter.com/sachielcode)
-[linkedin.com/in/sachielcode](https://www.linkedin.com/in/sachielcode/)
+[twitter](https://twitter.com/sachielcode)
+[linkedin](https://www.linkedin.com/in/sachielcode/)
