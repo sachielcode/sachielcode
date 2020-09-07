@@ -1,16 +1,12 @@
-### Hi there 👋
+## I'm SachielCode! 👋
 
-<!--
-**sachielcode/sachielcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Web Developer working in Morelia, México.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Destinos Parhíkuni**
+- ⚙️ I use daily: `php`, `js`, `html`, `css`, `nodejs`,`Express`,`npm`, `MySql`, `Git`,`Linux`
+- 📚 Learning at **Platzi.com**
+- 🌌 I have knowledge of this other technologies: `ReactJS, Webpack, PWA, ES6+, JQuery, CodeIgniter, Vue, C#, PostgreSql, sass`
+- 🌍 I'm mostly active within the **Platzi Backend Community**
+- 📫 Reach me: 
+[twitter.com/sachielcode](https://twitter.com/sachielcode)
+[linkedin.com/in/sachielcode](https://www.linkedin.com/in/sachielcode/)
